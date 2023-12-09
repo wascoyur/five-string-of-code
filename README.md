@@ -1,2 +1,2 @@
-# five-string-of-code-
+# five-string-of-code
 Листинги кода для книги Пять строк кода
